@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 channelID='302' tvg-num='29' tvg-chno='29' tvg-name='A&E USA' tvg-id='302' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-5704350368.png' group-title='DaddyLive',A&E USA
+https://cn2.lusd1.org/DaddyLive/watch/302
+#EXTINF:-1 channelID='51' tvg-num='30' tvg-chno='30' tvg-name='ABC USA' tvg-id='51' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4124037679.png' group-title='DaddyLive',ABC USA
+https://cn2.lusd1.org/DaddyLive/watch/51
+#EXTINF:-1 channelID='295' tvg-num='39' tvg-chno='39' tvg-name='Adult Swim' tvg-id='295' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png' group-title='DaddyLive',Adult Swim
+https://cn2.lusd1.org/DaddyLive/watch/295
+#EXTINF:-1 channelID='303' tvg-num='45' tvg-chno='45' tvg-name='AMC USA' tvg-id='303' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4839631057.png' group-title='DaddyLive',AMC USA
+https://cn2.lusd1.org/DaddyLive/watch/303
+#EXTINF:-1 channelID='304' tvg-num='46' tvg-chno='46' tvg-name='Animal Planet' tvg-id='304' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-6675065041.png' group-title='DaddyLive',Animal Planet
+https://cn2.lusd1.org/DaddyLive/watch/304
+#EXTINF:-1 channelID='305' tvg-num='90' tvg-chno='90' tvg-name='BBC America (BBCA)' tvg-id='305' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4839683333.png' group-title='DaddyLive',BBC America (BBCA)
+https://cn2.lusd1.org/DaddyLive/watch/305
+#EXTINF:-1 channelID='306' tvg-num='131' tvg-chno='131' tvg-name='BET USA' tvg-id='306' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png' group-title='DaddyLive',BET USA
+https://cn2.lusd1.org/DaddyLive/watch/306
+#EXTINF:-1 channelID='648' tvg-num='136' tvg-chno='136' tvg-name='Boomerang' tvg-id='648' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png' group-title='DaddyLive',Boomerang
+https://cn2.lusd1.org/DaddyLive/watch/648
+#EXTINF:-1 channelID='307' tvg-num='138' tvg-chno='138' tvg-name='Bravo USA' tvg-id='307' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4524389689.png' group-title='DaddyLive',Bravo USA
+https://cn2.lusd1.org/DaddyLive/watch/307
+#EXTINF:-1 channelID='339' tvg-num='167' tvg-chno='167' tvg-name='Cartoon Network' tvg-id='339' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png' group-title='DaddyLive',Cartoon Network
+https://cn2.lusd1.org/DaddyLive/watch/339
+#EXTINF:-1 channelID='52' tvg-num='172' tvg-chno='172' tvg-name='CBS USA' tvg-id='52' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-685389140.png' group-title='DaddyLive',CBS USA
+https://cn2.lusd1.org/DaddyLive/watch/52
+#EXTINF:-1 channelID='374' tvg-num='182' tvg-chno='182' tvg-name='Cinemax USA' tvg-id='374' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-6570603921.png' group-title='DaddyLive',Cinemax USA
+https://cn2.lusd1.org/DaddyLive/watch/374
+#EXTINF:-1 channelID='647' tvg-num='185' tvg-chno='185' tvg-name='CMT USA' tvg-id='647' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4493978907.png' group-title='DaddyLive',CMT USA
+https://cn2.lusd1.org/DaddyLive/watch/647
+#EXTINF:-1 channelID='310' tvg-num='190' tvg-chno='190' tvg-name='Comedy Central' tvg-id='310' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1100753165.png' group-title='DaddyLive',Comedy Central
+https://cn2.lusd1.org/DaddyLive/watch/310
+#EXTINF:-1 channelID='696' tvg-num='191' tvg-chno='191' tvg-name='Comet USA' tvg-id='696' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1948189398.png' group-title='DaddyLive',Comet USA
+https://cn2.lusd1.org/DaddyLive/watch/696
+#EXTINF:-1 channelID='697' tvg-num='192' tvg-chno='192' tvg-name='Cooking Channel USA' tvg-id='697' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1097964957.png' group-title='DaddyLive',Cooking Channel USA
+https://cn2.lusd1.org/DaddyLive/watch/697
+#EXTINF:-1 channelID='300' tvg-num='209' tvg-chno='209' tvg-name='CW USA' tvg-id='300' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-637297729.png' group-title='DaddyLive',CW USA
+https://cn2.lusd1.org/DaddyLive/watch/300
+#EXTINF:-1 channelID='651' tvg-num='227' tvg-chno='227' tvg-name='Destination America' tvg-id='651' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png' group-title='DaddyLive',Destination America
+https://cn2.lusd1.org/DaddyLive/watch/651
+#EXTINF:-1 channelID='313' tvg-num='237' tvg-chno='237' tvg-name='Discovery Channel' tvg-id='313' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-3776613434.png' group-title='DaddyLive',Discovery Channel
+https://cn2.lusd1.org/DaddyLive/watch/313
+#EXTINF:-1 channelID='657' tvg-num='238' tvg-chno='238' tvg-name='Discovery Family' tvg-id='657' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1256832338.png' group-title='DaddyLive',Discovery Family
+https://cn2.lusd1.org/DaddyLive/watch/657
+#EXTINF:-1 channelID='311' tvg-num='239' tvg-chno='239' tvg-name='Discovery Life Channel' tvg-id='311' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-3969518871.png' group-title='DaddyLive',Discovery Life Channel
+https://cn2.lusd1.org/DaddyLive/watch/311
+#EXTINF:-1 channelID='285' tvg-num='240' tvg-chno='240' tvg-name='Discovery Velocity CA' tvg-id='285' group-title='DaddyLive',Discovery Velocity CA
+https://cn2.lusd1.org/DaddyLive/watch/285
+#EXTINF:-1 channelID='312' tvg-num='241' tvg-chno='241' tvg-name='Disney Channel' tvg-id='312' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4988347140.png' group-title='DaddyLive',Disney Channel
+https://cn2.lusd1.org/DaddyLive/watch/312
+#EXTINF:-1 channelID='652' tvg-num='242' tvg-chno='242' tvg-name='Disney JR' tvg-id='652' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1449864317.png' group-title='DaddyLive',Disney JR
+https://cn2.lusd1.org/DaddyLive/watch/652
+#EXTINF:-1 channelID='314' tvg-num='243' tvg-chno='243' tvg-name='Disney XD' tvg-id='314' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1987866583.png' group-title='DaddyLive',Disney XD
+https://cn2.lusd1.org/DaddyLive/watch/314
+#EXTINF:-1 channelID='315' tvg-num='254' tvg-chno='254' tvg-name='E! Entertainment Television' tvg-id='315' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-5555632935.png' group-title='DaddyLive',E! Entertainment Television
+https://cn2.lusd1.org/DaddyLive/watch/315
+#EXTINF:-1 channelID='751' tvg-num='293' tvg-chno='293' tvg-name='FETV - Family Entertainment Television' tvg-id='751' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-6655212080.png' group-title='DaddyLive',FETV - Family Entertainment Television
+https://cn2.lusd1.org/DaddyLive/watch/751
+#EXTINF:-1 channelID='384' tvg-num='297' tvg-chno='297' tvg-name='Food Network' tvg-id='384' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4100994372.png' group-title='DaddyLive',Food Network
+https://cn2.lusd1.org/DaddyLive/watch/384
+#EXTINF:-1 channelID='297' tvg-num='298' tvg-chno='298' tvg-name='Fox Business' tvg-id='297' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-7783077810.png' group-title='DaddyLive',Fox Business
+https://cn2.lusd1.org/DaddyLive/watch/297
+#EXTINF:-1 channelID='347' tvg-num='302' tvg-chno='302' tvg-name='Fox News' tvg-id='347' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-629669360.png' group-title='DaddyLive',Fox News
+https://cn2.lusd1.org/DaddyLive/watch/347
+#EXTINF:-1 channelID='54' tvg-num='315' tvg-chno='315' tvg-name='FOX USA' tvg-id='54' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-586905461.png' group-title='DaddyLive',FOX USA
+https://cn2.lusd1.org/DaddyLive/watch/54
+#EXTINF:-1 channelID='775' tvg-num='316' tvg-chno='316' tvg-name='Fox Weather Channel' tvg-id='775' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-11142877181.png' group-title='DaddyLive',Fox Weather Channel
+https://cn2.lusd1.org/DaddyLive/watch/775
+#EXTINF:-1 channelID='301' tvg-num='318' tvg-chno='318' tvg-name='Freeform' tvg-id='301' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png' group-title='DaddyLive',Freeform
+https://cn2.lusd1.org/DaddyLive/watch/301
+#EXTINF:-1 channelID='381' tvg-num='320' tvg-chno='320' tvg-name='FX Movie Channel' tvg-id='381' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-3661741626.png' group-title='DaddyLive',FX Movie Channel
+https://cn2.lusd1.org/DaddyLive/watch/381
+#EXTINF:-1 channelID='317' tvg-num='321' tvg-chno='321' tvg-name='FX USA' tvg-id='317' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1990733830.png' group-title='DaddyLive',FX USA
+https://cn2.lusd1.org/DaddyLive/watch/317
+#EXTINF:-1 channelID='298' tvg-num='322' tvg-chno='322' tvg-name='FXX USA' tvg-id='298' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-704773183.png' group-title='DaddyLive',FXX USA
+https://cn2.lusd1.org/DaddyLive/watch/298
+#EXTINF:-1 channelID='665' tvg-num='323' tvg-chno='323' tvg-name='FYI' tvg-id='665' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1096389767.png' group-title='DaddyLive',FYI
+https://cn2.lusd1.org/DaddyLive/watch/665
+#EXTINF:-1 channelID='320' tvg-num='334' tvg-chno='334' tvg-name='Hallmark Channel' tvg-id='320' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-639103046.png' group-title='DaddyLive',Hallmark Channel
+https://cn2.lusd1.org/DaddyLive/watch/320
+#EXTINF:-1 channelID='296' tvg-num='335' tvg-chno='335' tvg-name='Hallmark Movies & Mysteries' tvg-id='296' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1105532224.png' group-title='DaddyLive',Hallmark Movies & Mysteries
+https://cn2.lusd1.org/DaddyLive/watch/296
+#EXTINF:-1 channelID='690' tvg-num='336' tvg-chno='336' tvg-name='HBO Comedy USA' tvg-id='690' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-6599329199.png' group-title='DaddyLive',HBO Comedy USA
+https://cn2.lusd1.org/DaddyLive/watch/690
+#EXTINF:-1 channelID='691' tvg-num='337' tvg-chno='337' tvg-name='HBO Family USA' tvg-id='691' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-9237817939.png' group-title='DaddyLive',HBO Family USA
+https://cn2.lusd1.org/DaddyLive/watch/691
+#EXTINF:-1 channelID='693' tvg-num='340' tvg-chno='340' tvg-name='HBO Signature USA' tvg-id='693' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-6010163497.png' group-title='DaddyLive',HBO Signature USA
+https://cn2.lusd1.org/DaddyLive/watch/693
+#EXTINF:-1 channelID='321' tvg-num='341' tvg-chno='341' tvg-name='HBO USA' tvg-id='321' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1453364263.png' group-title='DaddyLive',HBO USA
+https://cn2.lusd1.org/DaddyLive/watch/321
+#EXTINF:-1 channelID='694' tvg-num='342' tvg-chno='342' tvg-name='HBO Zone USA' tvg-id='694' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-6516412812.png' group-title='DaddyLive',HBO Zone USA
+https://cn2.lusd1.org/DaddyLive/watch/694
+#EXTINF:-1 channelID='689' tvg-num='343' tvg-chno='343' tvg-name='HBO2 USA' tvg-id='689' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-6009706967.png' group-title='DaddyLive',HBO2 USA
+https://cn2.lusd1.org/DaddyLive/watch/689
+#EXTINF:-1 channelID='382' tvg-num='345' tvg-chno='345' tvg-name='HGTV' tvg-id='382' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1105695816.png' group-title='DaddyLive',HGTV
+https://cn2.lusd1.org/DaddyLive/watch/382
+#EXTINF:-1 channelID='322' tvg-num='346' tvg-chno='346' tvg-name='History USA' tvg-id='322' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433041192.png' group-title='DaddyLive',History USA
+https://cn2.lusd1.org/DaddyLive/watch/322
+#EXTINF:-1 channelID='656' tvg-num='349' tvg-chno='349' tvg-name='IFC TV USA' tvg-id='656' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-3535297007.png' group-title='DaddyLive',IFC TV USA
+https://cn2.lusd1.org/DaddyLive/watch/656
+#EXTINF:-1 channelID='324' tvg-num='350' tvg-chno='350' tvg-name='Investigation Discovery (ID USA)' tvg-id='324' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-8498404355.png' group-title='DaddyLive',Investigation Discovery (ID USA)
+https://cn2.lusd1.org/DaddyLive/watch/324
+#EXTINF:-1 channelID='389' tvg-num='367' tvg-chno='367' tvg-name='Lifetime Movies Network' tvg-id='389' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-5046001431.png' group-title='DaddyLive',Lifetime Movies Network
+https://cn2.lusd1.org/DaddyLive/watch/389
+#EXTINF:-1 channelID='326' tvg-num='368' tvg-chno='368' tvg-name='Lifetime Network' tvg-id='326' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-5362828610.png' group-title='DaddyLive',Lifetime Network
+https://cn2.lusd1.org/DaddyLive/watch/326
+#EXTINF:-1 channelID='299' tvg-num='371' tvg-chno='371' tvg-name='Magnolia Network' tvg-id='299' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-11015143387.png' group-title='DaddyLive',Magnolia Network
+https://cn2.lusd1.org/DaddyLive/watch/299
+#EXTINF:-1 channelID='327' tvg-num='402' tvg-chno='402' tvg-name='MSNBC' tvg-id='327' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1957307385.png' group-title='DaddyLive',MSNBC
+https://cn2.lusd1.org/DaddyLive/watch/327
+#EXTINF:-1 channelID='371' tvg-num='405' tvg-chno='405' tvg-name='MTV USA' tvg-id='371' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-652158537.png' group-title='DaddyLive',MTV USA
+https://cn2.lusd1.org/DaddyLive/watch/371
+#EXTINF:-1 channelID='745' tvg-num='409' tvg-chno='409' tvg-name='Nat Geo Wild USA' tvg-id='745' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-6227993452.png' group-title='DaddyLive',Nat Geo Wild USA
+https://cn2.lusd1.org/DaddyLive/watch/745
+#EXTINF:-1 channelID='328' tvg-num='410' tvg-chno='410' tvg-name='National Geographic (NGC)' tvg-id='328' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4229937861.png' group-title='DaddyLive',National Geographic (NGC)
+https://cn2.lusd1.org/DaddyLive/watch/328
+#EXTINF:-1 channelID='53' tvg-num='418' tvg-chno='418' tvg-name='NBC USA' tvg-id='53' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4101478725.png' group-title='DaddyLive',NBC USA
+https://cn2.lusd1.org/DaddyLive/watch/53
+#EXTINF:-1 channelID='613' tvg-num='424' tvg-chno='424' tvg-name='Newsmax USA' tvg-id='613' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png' group-title='DaddyLive',Newsmax USA
+https://cn2.lusd1.org/DaddyLive/watch/613
+#EXTINF:-1 channelID='330' tvg-num='427' tvg-chno='427' tvg-name='NICK' tvg-id='330' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png' group-title='DaddyLive',NICK
+https://cn2.lusd1.org/DaddyLive/watch/330
+#EXTINF:-1 channelID='329' tvg-num='428' tvg-chno='428' tvg-name='NICK JR' tvg-id='329' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png' group-title='DaddyLive',NICK JR
+https://cn2.lusd1.org/DaddyLive/watch/329
+#EXTINF:-1 channelID='649' tvg-num='429' tvg-chno='429' tvg-name='Nicktoons' tvg-id='649' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png' group-title='DaddyLive',Nicktoons
+https://cn2.lusd1.org/DaddyLive/watch/649
+#EXTINF:-1 channelID='334' tvg-num='455' tvg-chno='455' tvg-name='Paramount Network' tvg-id='334' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-5622899876.png' group-title='DaddyLive',Paramount Network
+https://cn2.lusd1.org/DaddyLive/watch/334
+#EXTINF:-1 channelID='294' tvg-num='499' tvg-chno='499' tvg-name='Science Channel' tvg-id='294' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4386470980.png' group-title='DaddyLive',Science Channel
+https://cn2.lusd1.org/DaddyLive/watch/294
+#EXTINF:-1 channelID='333' tvg-num='507' tvg-chno='507' tvg-name='Showtime USA' tvg-id='333' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png' group-title='DaddyLive',Showtime USA
+https://cn2.lusd1.org/DaddyLive/watch/333
+#EXTINF:-1 channelID='335' tvg-num='630' tvg-chno='630' tvg-name='Starz' tvg-id='335' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png' group-title='DaddyLive',Starz
+https://cn2.lusd1.org/DaddyLive/watch/335
+#EXTINF:-1 channelID='658' tvg-num='634' tvg-chno='634' tvg-name='Sundance TV' tvg-id='658' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png' group-title='DaddyLive',Sundance TV
+https://cn2.lusd1.org/DaddyLive/watch/658
+#EXTINF:-1 channelID='373' tvg-num='653' tvg-chno='653' tvg-name='SYFY USA' tvg-id='373' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4976483395.png' group-title='DaddyLive',SYFY USA
+https://cn2.lusd1.org/DaddyLive/watch/373
+#EXTINF:-1 channelID='336' tvg-num='655' tvg-chno='655' tvg-name='TBS USA' tvg-id='336' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-1967392400.png' group-title='DaddyLive',TBS USA
+https://cn2.lusd1.org/DaddyLive/watch/336
+#EXTINF:-1 channelID='644' tvg-num='656' tvg-chno='656' tvg-name='TCM USA' tvg-id='644' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-7107665908.png' group-title='DaddyLive',TCM USA
+https://cn2.lusd1.org/DaddyLive/watch/644
+#EXTINF:-1 channelID='650' tvg-num='657' tvg-chno='657' tvg-name='TeenNick' tvg-id='650' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png' group-title='DaddyLive',TeenNick
+https://cn2.lusd1.org/DaddyLive/watch/650
+#EXTINF:-1 channelID='337' tvg-num='678' tvg-chno='678' tvg-name='TLC' tvg-id='337' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-3628732394.png' group-title='DaddyLive',TLC
+https://cn2.lusd1.org/DaddyLive/watch/337
+#EXTINF:-1 channelID='698' tvg-num='679' tvg-chno='679' tvg-name='TMC Channel USA' tvg-id='698' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-643763221.png' group-title='DaddyLive',TMC Channel USA
+https://cn2.lusd1.org/DaddyLive/watch/698
+#EXTINF:-1 channelID='338' tvg-num='687' tvg-chno='687' tvg-name='TNT USA' tvg-id='338' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4320743404.png' group-title='DaddyLive',TNT USA
+https://cn2.lusd1.org/DaddyLive/watch/338
+#EXTINF:-1 channelID='340' tvg-num='688' tvg-chno='688' tvg-name='Travel Channel' tvg-id='340' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-6585149188.png' group-title='DaddyLive',Travel Channel
+https://cn2.lusd1.org/DaddyLive/watch/340
+#EXTINF:-1 channelID='668' tvg-num='721' tvg-chno='721' tvg-name='Universal Kids USA' tvg-id='668' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-5276254591.png' group-title='DaddyLive',Universal Kids USA
+https://cn2.lusd1.org/DaddyLive/watch/668
+#EXTINF:-1 channelID='343' tvg-num='723' tvg-chno='723' tvg-name='USA Network' tvg-id='343' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-4675958426.png' group-title='DaddyLive',USA Network
+https://cn2.lusd1.org/DaddyLive/watch/343
+#EXTINF:-1 channelID='344' tvg-num='728' tvg-chno='728' tvg-name='VH1 USA' tvg-id='344' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-629337139.png' group-title='DaddyLive',VH1 USA
+https://cn2.lusd1.org/DaddyLive/watch/344
+#EXTINF:-1 channelID='659' tvg-num='732' tvg-chno='732' tvg-name='VICE TV' tvg-id='659' tvg-logo='https://www.tvguide.com/a/img/catalog/provider/1/4/1-7971928572.png' group-title='DaddyLive',VICE TV
+https://cn2.lusd1.org/DaddyLive/watch/659
+#EXTINF:-1 channelID='763' tvg-num='745' tvg-chno='745' tvg-name='YES Network USA' tvg-id='763' tvg-logo='https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/yes-network-us.png' group-title='DaddyLive',YES Network USA
+https://cn2.lusd1.org/DaddyLive/watch/763
